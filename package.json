@@ -3,9 +3,7 @@
   "description": "Set, clear, and parse cookies in your Koa application",
   "version": "4.0.3",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -18,12 +16,12 @@
     "test:lint": "ts-standard src/",
     "test:tape": "ts-node node_modules/.bin/tape src/index.test.ts | tap-spec"
   },
-  "homepage": "https://github.com/zacanger/koa-cookies#readme",
+  "homepage": "https://github.com/zautumnz/koa-cookies#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/koa-cookies.git"
+    "url": "https://github.com/zautumnz/koa-cookies.git"
   },
-  "bugs": "https://github.com/zacanger/koa-cookies/issues",
+  "bugs": "https://github.com/zautumnz/koa-cookies/issues",
   "keywords": [
     "cookie",
     "cookies",
