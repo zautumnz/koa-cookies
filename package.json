@@ -19,7 +19,7 @@
   "homepage": "https://github.com/zautumnz/koa-cookies#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zautumnz/koa-cookies.git"
+    "url": "git+https://github.com/zautumnz/koa-cookies.git"
   },
   "bugs": "https://github.com/zautumnz/koa-cookies/issues",
   "keywords": [
@@ -32,10 +32,10 @@
   },
   "devDependencies": {
     "@types/koa": "3.0.1",
-    "@types/node": "24.9.2",
+    "@types/node": "24.10.0",
     "koa": "3.1.1",
     "npm-run-all": "4.1.5",
-    "sortpack": "3.0.0",
+    "sortpack": "4.0.1",
     "supertest": "7.1.4",
     "tap-spec": "5.0.0",
     "tape": "5.9.0",
